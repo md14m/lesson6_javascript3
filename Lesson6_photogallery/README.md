@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 4th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mariana Domine
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we learned more ways to change html elements through js
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/md14m/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A way to style text on the web is called a Markdown
+2. GitHub uses its own version of the Markdown
+3. GitHub even supports emoji!
